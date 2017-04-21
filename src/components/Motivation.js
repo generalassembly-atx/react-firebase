@@ -20,7 +20,7 @@ class Motivation extends Component {
         motivations: results
       });
     });
-  }
+  } 
 
   render(){
     //Write your const to pass down the state to the MotivationList.js Component
